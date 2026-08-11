@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-RENDER-URL.onrender.com/sitemap.xml
+Sitemap: https://ikaries-boogie.onrender.com/sitemap.xml
